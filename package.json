@@ -10,10 +10,15 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "axios": "^1.4.0",
+    "js-cookie": "^3.0.5",
+    "nprogress": "^0.2.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.36.0",
+    "@types/js-cookie": "^3.0.3",
     "@types/node": "^18.15.3",
     "@vitejs/plugin-vue": "^4.0.0",
     "autoprefixer": "^10.4.14",

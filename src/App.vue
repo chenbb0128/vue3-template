@@ -7,4 +7,3 @@
     Hello World
   </div>
 </template>
-
